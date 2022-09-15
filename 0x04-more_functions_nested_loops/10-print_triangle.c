@@ -1,9 +1,9 @@
 #include "main.h"
 /**
- *print_triangles - Priints a triangle, using the character #
+ *print_triangle - Prints a triangle, using the character #
  * @size: The size of the triangle.
  */
-void print_triangles(int size)
+void print_triangle(int size)
 {
 	int hash, index;
 

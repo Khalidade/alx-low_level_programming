@@ -25,4 +25,6 @@ printf("%d", num);
 		continue;
 	printf(" ");
 }
+printf("\n");
+return (0);
 }
