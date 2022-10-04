@@ -1,5 +1,6 @@
 #include "main.h"
 #include <stdlib.h>
+#include <stdio.h>
 /**
  * free_grid - frees a 2 dimensional grid previously created with malloc
  * @grid: double pointer to the 2d array to be freed
